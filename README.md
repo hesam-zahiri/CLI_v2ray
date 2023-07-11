@@ -18,4 +18,4 @@ or
 ```
 python3 V2RAY.py
 ```
-- Enter the your vmess/vless/trojan/shadowsocks config
+- Enter the vmess/vless/trojan/shadowsocks config
